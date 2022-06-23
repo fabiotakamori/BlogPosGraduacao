@@ -1,0 +1,26 @@
+.footer{
+    background-color: black;
+    height: 180px;
+    margin-top: 10px;
+}
+.logo-img img{
+    margin-top: 20px;
+    margin-left: 300px;
+}
+.footer-menu {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.footer-menu span{
+    color: white;
+    margin-top: 20px ;
+    padding: 10px;
+    font-weight: bold;
+   
+}
+.footer-menu span:hover{
+
+    background-color: white;
+    color: black;
+}
