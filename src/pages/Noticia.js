@@ -6,6 +6,7 @@ import rtx from "../img/rtx.jpg";
 import styled, {css} from "styled-components"
 import Titulo
  from "../components/Title";
+ 
 const Section = styled.div`
     display: flex;
     flex-flow: row wrap;
